@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(node --version)",
+      "Shell(npm:*)",
+      "Shell(python --version)",
+      "Shell(py:*)",
+      "Shell(pip:*)",
+      "powershell"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
